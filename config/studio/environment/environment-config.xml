@@ -46,5 +46,9 @@
             <repo-branch-name>live</repo-branch-name>
             <display-label>Live</display-label>
         </target>
+        <target>
+            <repo-branch-name>staging</repo-branch-name>
+            <display-label>Staging</display-label>
+        </target>
     </publishing-targets>
 </environment-config>
