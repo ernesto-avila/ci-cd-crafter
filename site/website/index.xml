@@ -16,7 +16,7 @@
 &lt;li&gt;To Update markup (including this text) edit this template under templates in the left Sidebar&lt;/li&gt;
 &lt;li&gt;To modify the text below this list click edit in the top toolbar.&lt;/li&gt;
 &lt;li&gt;Crafter documentation can be found&amp;nbsp;&lt;a href="http://docs.craftercms.org" target="_self"&gt;here.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Crafter CMS authoring and developer training is available. Please contact&amp;nbsp;&lt;a href="mailto:info@craftersoftware.com"&gt;info@craftersoftware.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Crafter CMS authoring and developer training is available. Please contact &lt;a href="mailto:info@craftersoftware.com"&gt;ernesto.avila@softtek.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div&gt;
@@ -28,8 +28,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2020-05-14T19:26:27.259Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-05-14T19:26:27.259Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-05-14T19:37:52.208Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-14T19:37:52.208Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
 </page>
