@@ -17,6 +17,7 @@
 &lt;li&gt;To modify the text below this list click edit in the top toolbar.&lt;/li&gt;
 &lt;li&gt;Crafter documentation can be found&amp;nbsp;&lt;a href="http://docs.craftercms.org" target="_self"&gt;here.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Crafter CMS authoring and developer training is available. Please contact &lt;a href="mailto:info@craftersoftware.com"&gt;ernesto.avila@softtek.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NEW POINT&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div&gt;
@@ -28,8 +29,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2020-05-14T19:50:53.960Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-05-14T19:50:53.960Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-05-14T22:06:25.422Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-14T22:06:25.422Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
 </page>
